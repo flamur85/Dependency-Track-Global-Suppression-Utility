@@ -5,7 +5,7 @@ All you need to start is to provide:
 <ul>
 <li>The Dependency Track Base URL.</li>
 <li>The Dependency Track API Key.</li>
-<liThe PURL of the package you would like to suppress/unsuppress.</li>
+<li>The PURL of the package you would like to suppress/unsuppress.</li>
 <li>The vulnerabilities UUID.</li>
 <li>The suppression status. (If you want to suppress or unsuppress)</li>
 </ul>
